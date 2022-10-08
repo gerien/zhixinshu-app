@@ -1,8 +1,9 @@
 # This is a small project of the website for Zhixin Education
 
-## I use React, and Material UI as packaged components
+## The modules this project use
+I use React, and Material UI as packaged components
 
-## file structure
+## File structure
 ```
 .
 ├── README.md 
