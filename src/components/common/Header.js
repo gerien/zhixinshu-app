@@ -5,6 +5,17 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
 
+/**
+ * 
+ * @param {*} props get the sections and title from mother component, Frame
+ * @returns component Header as the head of the page
+ * 
+ * nest 2 toolbars in it, to show the name and the links
+ * 
+ * suggest to make this component always to show on the top of the page;
+ * maybe can change it to 2 rows, like the 0sum and shangan schools.
+ */
+
 export default function Header(props) {
   const { sections, title } = props;
 

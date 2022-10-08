@@ -4,6 +4,15 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Link from '@mui/material/Link';
 
+/**
+ * 
+ * @returns component StickyFooter 
+ * 
+ * suggest to  make this component always to show on the bottom of the page;
+ * need to change the contents to some information of the school,
+ * like qq number, contact method
+ */
+
 function Copyright() {
     return (
       <Typography variant="body2" color="text.secondary">

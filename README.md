@@ -2,6 +2,11 @@
 
 ## The modules this project use
 I use React, and Material UI as packaged components
+for material UI, we need to do the next 2 installation
+
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+
 
 ## File structure
 ```
