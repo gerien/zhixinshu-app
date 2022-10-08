@@ -10,7 +10,9 @@ import { Contact } from './pages/Contact';
 
 /**
  * nest the Routes in a self defined component 'Frame'(mother components)
- * the Frame will get the childrens as a property
+ * the Frame will get the children components as a property for showing
+ * 
+ * The Route redirect the defualt link and wrong links to home page
  */
 
 export default class App extends Component {
