@@ -3,7 +3,7 @@ import './css/App.css';
 import { Route, Routes } from 'react-router-dom';
 import { Home } from './pages/Home';
 import { Team } from './pages/Team';
-import {Frame} from './components/Frame';
+import {Frame} from './components/common/Frame';
 import { Lesson } from './pages/Lesson';
 import { Service } from './pages/Service';
 import { Contact } from './pages/Contact';
