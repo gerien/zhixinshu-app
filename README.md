@@ -19,6 +19,7 @@
     ├── pages           // folder for pages' js files
     ├── App.js
     ├── index.js
+```
 
 ## Getting Started with Create React App
 
