@@ -3,16 +3,20 @@
 ## I use React, and Material UI as packaged components
 
 ## file structure
-
-zhixinshu-app
-├── README.md (description of the project for GitHUb)
-├── node_modules (stores all dependent modules for the project)
-├── package.json (stores all meta information of the prokect like dependencies,version,revisions etc.)
-├── .gitignore (files declared here will be ignored while uploading to GitHub like node_modules 
-├── public (here you will store all images) 
+```
+.
+├── README.md 
+├── node_modules    // stores all dependent modules for the project
+├── package.json    // stores all meta information of the prokect like dependencies,version,revisions etc.)
+├── .gitignore      // files declared here will be ignored while uploading to GitHub like node_modules 
+├── public           
+│   ├── images      //here you will store all images
+│   ├── index.html
+│   ├── manifest.json
 └── src (our main code for app lies here)
-    ├── components (folder for common and special pages' components)
-    ├── 
+    ├── components      // folder for common and special pages' components)
+    ├── css             // folder for css files
+    ├── pages           // folder for pages' js files
     ├── App.js
     ├── index.js
 
