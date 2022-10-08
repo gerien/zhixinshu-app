@@ -6,7 +6,7 @@ import Header from './Header';
 import { StickyFooter } from './StickyFooter';
 
 const sections = [
-  { title: '首页', url: '/' },
+  { title: '首页', url: '/#/home' },
   { title: '讲师阵容', url: '/#/team' },
   { title: '课程安排', url: '/#/lesson' },
   { title: '学员服务', url: '/#/service' },
